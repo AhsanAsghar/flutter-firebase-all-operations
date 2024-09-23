@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26659145227",
+    "project_id": "fir-learning-b740e",
+    "storage_bucket": "fir-learning-b740e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26659145227:android:59a4bed952f695dd85e90e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMb6Nt8LfcXwXQ9i16Q3axUASUumQ5QNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
